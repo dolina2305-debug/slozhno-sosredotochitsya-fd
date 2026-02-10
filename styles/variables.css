@@ -21,6 +21,7 @@
 --main-text-color: #f1b2ce;
 --footer-title-color: #db00ff;
 --page-gap: 40px;
+--main-gap: 10px;
 }
 
 @media (width >= 768px) {
@@ -28,5 +29,6 @@
     --header-title-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
     --footer-title-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
     --page-gap: 60px;
+    --main-gap: 20px;
   }
 }

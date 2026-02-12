@@ -125,7 +125,7 @@
 
 .header-text {
   font-weight: 700;
-  color: var(--main__headings-color);
+  color: var(--header-text-color);
 }
 
 .title-decor {
@@ -162,7 +162,7 @@
 }
 
 .main__headings {
-  color: var(--main__headings-color);
+  color: var(--main-headings-color);
   font-weight: 700;
 }
 
@@ -176,7 +176,7 @@
 
 .main__chapter {
   font-weight: 400;
-  color: var(--main__headings-color);
+  color: var(--main-chapter-color);
   margin-top: 20px;
 }
 

@@ -11,7 +11,9 @@
   --title-heading-color: #ffc2e6;
   --base-color: #353430;
   --menu-button-hover-color: rgb(50 49 45 / 0.4);
-  --main__headings-color: #353430;
+  --main-headings-color: #353430;
+  --main-chapter-color: #353430;
+  --header-text-color: #353430;
   --main-text-color: #353430;
   /* сохраните этот селектор в приведённом виде.
     Так стили написанные ниже будут иметь больший вес,
@@ -29,13 +31,11 @@
     --main-bg-color: #fff1f7;
     --accent-color: #ff8dcb;
     --title-heading-color: #ffc2e6;
-    --header-menu-color: #353430;
+    --base-color: #353430;
     --menu-button-hover-color: rgb(50 49 45 / 0.4);
-    --title-heading-color: #ffc2e6;
+    --main-headings-color: #353430;
+    --main-chapter-color: #353430;
     --header-text-color: #353430;
-    --main__title-color: #353430;
-    --main__headings-color: #353430;
-    --main__chapter-color: #353430;
     --main-text-color: #353430;
   }
 

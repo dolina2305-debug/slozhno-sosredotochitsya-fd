@@ -11,7 +11,9 @@
   --title-heading-color: #db00ff;
   --base-color: #ff0070;
   --menu-button-hover-color: rgb(255 0 112 / 0.4);
-  --main__headings-color: #000028;
+  --main-headings-color: #000028;
+  --main-chapter-color: #000028;
+  --header-text-color: #000028;
   --main-text-color: #f1b2ce;
 }
 
